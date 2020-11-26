@@ -269,3 +269,24 @@ ul,ol{
     filter: none;
     -webkit-filter: none;
 }
+
+/* Contact */
+
+#contact
+{
+    background: #f1560e;
+    text-align: center;
+}
+
+#contact .heading h2
+{
+    color: #fff
+}
+fieldset
+{
+    color: #fff;
+}
+legend
+{
+    color: #fff;
+}
