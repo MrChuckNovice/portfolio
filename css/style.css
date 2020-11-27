@@ -138,6 +138,7 @@ ul,ol{
 {
     text-shadow: 1px 1px 1px #000; 
 }
+/*parcours */
 
 #parcours
 {
@@ -284,7 +285,7 @@ ul,ol{
 }
 fieldset
 {
-    color: #fff;
+    color:;
 }
 legend
 {
