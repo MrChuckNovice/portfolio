@@ -8,7 +8,7 @@ $email_expediteur = $_POST['email'];
 $nom_expediteur = $_POST['nom'];
  
 // destinataire est votre adresse mail (cela peut être la même que cl'expéditeur ci-dessus). Pour envoyer à plusieurs destinataires à la fois, séparez-les par un point-virgule
-$destinataire = 'teedji77@hotmail.fr';
+$destinataire = '&#116;%65&#101;dji&#55;7&#64;ho&#116;%6da&#105;%6c%2e%66&#114;';
  
 // copie ? (envoie une copie au visiteur)
 $copie = 'oui'; // 'oui' ou 'non'
